@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @salehuddn
-- 👀 I’m interested in Web Devolpment
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning PHP, Java, OOP
 - 📫 Reach me at muhammadsalehuddin@yahoo.com
 
